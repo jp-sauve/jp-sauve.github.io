@@ -1,0 +1,59 @@
+body {
+  padding-top: 0px;
+  background-color:#344;
+}
+footer, section {
+
+}
+section {
+  background-color: #CDD;
+  margin: 0;
+}
+.container {
+  padding-top: 1rem;
+  padding-bottom:0.5rem;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+.jumbotron {
+  background-color: #CDD;
+
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  min-height: 15rem;
+}
+.jumbotext {
+  display: inline;
+}
+.album {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.card {
+  float: left;
+  width: 26%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.25rem;
+  margin-bottom: 2rem;
+  border: 1px solid #BBB;
+}
+.card > img {
+  margin-bottom: .5rem;
+
+}
+
+.card-text {
+  font-size: 85%;
+}
+.jps-image {
+  display: inline;
+  float:left;
+  height: 100%;
+}
+.fa-4x:hover {
+  text-decoration:none;
+}
