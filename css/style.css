@@ -52,7 +52,7 @@ section {
 .jps-image {
   display: inline;
   float:left;
-  height: 100%;
+  max-width: 25%;
 }
 .fa-4x:hover {
   text-decoration:none;
