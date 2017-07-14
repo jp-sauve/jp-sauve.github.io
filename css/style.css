@@ -20,7 +20,7 @@ section {
 .jumbotron {
   background-color: #CDD;
 
-  padding-bottom: 6rem;
+  paddding-bottom: 6rem;
   margin-bottom: 0;
   min-height: 15rem;
 }
