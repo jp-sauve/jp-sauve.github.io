@@ -19,8 +19,6 @@ section {
 }
 .jumbotron {
   background-color: #CDD;
-
-  paddding-bottom: 6rem;
   margin-bottom: 0;
   min-height: 15rem;
 }
@@ -53,6 +51,13 @@ section {
   display: inline;
   float:left;
   max-width: 25%;
+  background-color: rgba(255,255,255,0.2);
+  background: -webkit-radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.6) 90%);
+  background: -o-radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.6) 90%);
+  background: -moz-radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.6) 90%);
+  background: radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.8) 90%);
+  border-color: #bbb;
+  box-shadow: .25rem .25rem .5rem rgba(0,0,0,.1);
 }
 .fa-4x:hover {
   text-decoration:none;

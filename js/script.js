@@ -7,6 +7,6 @@
             }, 1000);
         }
     });
-$( ".fa-4x" ).hover(function() {
-  $( this ).effect( "shake", { distance: 2}, { times:1 }, 5000 );
+$( ".fa-4x" ).mouseover(function() {
+  $( this ).effect( "shake", { distance: 1}, { times:1 }, 500 );
 });
