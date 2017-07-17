@@ -25,6 +25,9 @@ section {
 .jumbotext {
   display: inline;
 }
+.lead {
+  padding: 0px 1rem;
+}
 .album {
   padding-top: 1rem;
   padding-bottom: 1rem;
