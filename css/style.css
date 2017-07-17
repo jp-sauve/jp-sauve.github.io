@@ -9,6 +9,13 @@ section {
   background-color: #CDD;
   margin: 0;
 }
+section h1 {
+  font-family:  'Titillium Web', sans-serif;
+  font-weight: bold;
+}
+section h1 lead {
+  font-weight: normal;
+}
 .container {
   padding-top: 1rem;
   padding-bottom:0.5rem;
