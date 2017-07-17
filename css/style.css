@@ -45,6 +45,7 @@ section {
 .card > img {
   margin-bottom: .5rem;
 
+
 }
 
 .card-text {
@@ -53,7 +54,6 @@ section {
 .jps-image {
   display: inline;
   float:left;
-  max-width: 25%;
   background-color: rgba(255,255,255,0.2);
   background: -webkit-radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.6) 90%);
   background: -o-radial-gradient(circle,rgba(0,0,0,.2) 35%,rgba(255,255,255,0.6) 90%);
